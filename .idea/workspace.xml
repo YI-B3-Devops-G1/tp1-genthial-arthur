@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="62dc290c-19ee-4bda-9d30-912f0957348a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vagrant/machines/default/virtualbox/action_provision" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vagrant/machines/default/virtualbox/box_meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vagrant/machines/default/virtualbox/private_key" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vagrant/machines/default/virtualbox/synced_folders" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Vagrantfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ubuntu-bionic-18.04-cloudimg-console.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,6 +66,9 @@
       <workItem from="1580132311317" duration="10783000" />
       <workItem from="1580143557455" duration="674000" />
       <workItem from="1580146613619" duration="2330000" />
+      <workItem from="1580198739241" duration="227000" />
+      <workItem from="1580199115742" duration="44000" />
+      <workItem from="1580208899946" duration="1209000" />
     </task>
     <servers />
   </component>
@@ -84,10 +79,14 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="849" y="258" key="com.intellij.ide.util.TipDialog" timestamp="1580146615078">
+    <state x="549" y="188" key="FileChooserDialogImpl" timestamp="1580199150749">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="849" y="258" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1580146615078" />
+    <state x="549" y="188" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1580199150749" />
+    <state x="849" y="258" key="com.intellij.ide.util.TipDialog" timestamp="1580199138336">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="849" y="258" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1580199138336" />
     <state x="809" y="200" key="run.anything.popup" timestamp="1580139051712">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
